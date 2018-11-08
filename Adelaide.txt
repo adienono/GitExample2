@@ -1,1 +1,1 @@
-adelaide
+adelaide is learning about github and git.
